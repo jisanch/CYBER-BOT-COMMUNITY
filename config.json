@@ -1,6 +1,6 @@
 {
     "language": "en",
-    "keyActive": "",
+    "keyActive": "jisanchy#-765",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "notiGroup": true,
@@ -13,15 +13,15 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "jisanjisu048@gmail.com",
+    "PASSWORD": "jisanjisu048",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "JISAN'S chy",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "61576606605360",
+        "61573224724403",
+        "61554341625341"
     ],
     "NDH": [
         "100000478146113"
